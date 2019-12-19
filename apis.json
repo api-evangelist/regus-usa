@@ -1,0 +1,68 @@
+{
+    "name": "Regus USA",
+    "description": "Regus offer serviced office space, virtual offices, co-working spaces, and meeting rooms in centers across the world. Get A Quote.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1271-regus-usa.jpg",
+    "tags": [
+        "bookings",
+        "financial",
+        "have api",
+        "meetings",
+        "office",
+        "rooms"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/regus-usa\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Regus USA",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1271-regus-usa.jpg",
+            "humanURL": "http:\/\/developer.regus.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/regus-usa-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/developer.regus.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.regus.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/regus"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/regus"
+        },
+        {
+            "type": "Email",
+            "url": "webmaster@regus.com"
+        },
+        {
+            "type": "Email",
+            "url": "atwebmaster@regus.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/reguscloud"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/RegusUSA"
+        }
+    ]
+}
